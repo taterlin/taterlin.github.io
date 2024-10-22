@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taterlin.github.io/taterlin.taterlin
+Sitemap: https://taterlin.github.io/app/taterlin.taterlin
+Sitemap: https://taterlin.github.io/assets/taterlin.taterlin
+Sitemap: https://taterlin.github.io/css/taterlin.taterlin
+Sitemap: https://taterlin.github.io/includes/taterlin.taterlin
+Sitemap: https://taterlin.github.io/item/taterlin.taterlin
+Sitemap: https://taterlin.github.io/src/taterlin.taterlin
